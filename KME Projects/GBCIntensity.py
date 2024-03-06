@@ -63,11 +63,11 @@ if __name__ == "__main__":
         eq_count_list.append(equations_count) """
 
     # Print Prime Intensity Analysis
-    """ 
+    
     for prime_number, intensity in prime_intensity_map.items():
         if check_prime(prime_number):
             print("Prime number:", prime_number, ", Intensity:", intensity) 
-    """
+    
 
     # Plotting prime frequencies
     """  
